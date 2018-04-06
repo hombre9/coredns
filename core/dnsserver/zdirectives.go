@@ -22,6 +22,7 @@ var Directives = []string{
 	"prometheus",
 	"errors",
 	"log",
+	"acl",
 	"dnstap",
 	"chaos",
 	"loadbalance",
